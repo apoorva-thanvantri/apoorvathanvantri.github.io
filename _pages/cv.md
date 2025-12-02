@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: ./assets/pdf/Grad_School_Resume.pdf
+permalink: ./assets/pdf/CV.pdf
 title: CV
 nav: true
 nav_order: 5
